@@ -1,13 +1,13 @@
-package integracao.bancodedados;
+package com.generation.Junit3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BancoDeDadosApplication {
+public class Junit3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BancoDeDadosApplication.class, args);
+		SpringApplication.run(Junit3Application.class, args);
 	}
 
 }

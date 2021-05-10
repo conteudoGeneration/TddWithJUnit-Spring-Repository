@@ -1,4 +1,4 @@
-package integracao.bancodedados.contatos;
+package com.generation.Junit3.repository;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import integracao.bancodedados.model.ContatoModel;
-import integracao.bancodedados.repository.ContatoRepository;
+import com.generation.Junit3.model.ContatoModel;
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

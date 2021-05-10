@@ -1,4 +1,4 @@
-package integracao.bancodedados.model;
+package com.generation.Junit3.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
