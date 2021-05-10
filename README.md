@@ -60,6 +60,28 @@
 	</dependencies>
 ```
 
+## Atualizando as bibliotecas do ApplicationTest
+
+Atualize as bibliotecas do arquivo ApplicationTest
+
+![alt text](https://i.imgur.com/r5zvS0E.png)
+
+```
+package com.generation.Junit2;
+
+import org.junit.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Junit2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
+````````
+
 ### Model/Entity 
 
  1. Crie um pacote e o nomeie como Model ou Entity, em seguida cole o código abaixo;
