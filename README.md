@@ -275,6 +275,10 @@ public class ContatosRepositoryIntegrationTest {
 ![enter image description here](https://i.imgur.com/xBsk2tE.png)
 ![enter image description here](https://i.imgur.com/7PLlyyU.png)
 
+## Para testar o app
+
+![alt text](https://i.imgur.com/UxxTzyV.png)
+
 
 
 ### Qualquer duvida não esqueça de pesquisar dentro projeto guia do gitHub
